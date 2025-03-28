@@ -12,9 +12,9 @@ namespace btcpairs
         {
             { "USD", "BTC/USD" },
             { "EUR", "BTC/EUR" },
-            { "JPY", "BTC/JPY" },
             { "GBP", "BTC/GBP" },
             { "AUD", "BTC/AUD" },
+            { "JPY", "BTC/JPY" },
         };
 
         public Form1()
