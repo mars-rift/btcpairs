@@ -13,7 +13,7 @@ A Windows Forms application that provides real-time Bitcoin price tracking in mu
 
 ## Screenshot
 
-[![bitcoinprice](image.png)]
+![bitcoinprice](image.png)
 
 ## Requirements
 
